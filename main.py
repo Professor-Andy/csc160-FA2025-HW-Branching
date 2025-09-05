@@ -35,6 +35,7 @@ def test():
 #       |    |   |   |   |
 #       V    V   V   V   V
 def grade_to_letter(score):
+    letter_grade = ""
     # Your code goes here
     #example 
     #if score >= 90:
